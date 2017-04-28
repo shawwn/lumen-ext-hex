@@ -1,0 +1,24 @@
+{
+  "name": "lumen-ext-hex",
+  "version": "0.0.0",
+  "description": "Extend Lumen's reader to read hexadecimal numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawwn/lumen-ext-hex.git"
+  },
+  "keywords": [
+    "lumen",
+    "js",
+    "lua"
+  ],
+  "author": "Shawn Presser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawwn/lumen-ext-hex/issues"
+  },
+  "homepage": "https://github.com/shawwn/lumen-ext-hex#readme"
+}
